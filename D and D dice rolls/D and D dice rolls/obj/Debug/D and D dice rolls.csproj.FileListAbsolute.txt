@@ -1,0 +1,10 @@
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\C# stuff\D and D dice rolls\D and D dice rolls\bin\Debug\D and D dice rolls.exe.config
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\C# stuff\D and D dice rolls\D and D dice rolls\bin\Debug\D and D dice rolls.exe
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\C# stuff\D and D dice rolls\D and D dice rolls\bin\Debug\D and D dice rolls.pdb
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\C# stuff\D and D dice rolls\D and D dice rolls\obj\Debug\D and D dice rolls.csproj.AssemblyReference.cache
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\C# stuff\D and D dice rolls\D and D dice rolls\obj\Debug\D_and_D_dice_rolls.Form1.resources
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\C# stuff\D and D dice rolls\D and D dice rolls\obj\Debug\D_and_D_dice_rolls.Properties.Resources.resources
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\C# stuff\D and D dice rolls\D and D dice rolls\obj\Debug\D and D dice rolls.csproj.GenerateResource.cache
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\C# stuff\D and D dice rolls\D and D dice rolls\obj\Debug\D and D dice rolls.csproj.CoreCompileInputs.cache
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\C# stuff\D and D dice rolls\D and D dice rolls\obj\Debug\D and D dice rolls.exe
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\C# stuff\D and D dice rolls\D and D dice rolls\obj\Debug\D and D dice rolls.pdb
